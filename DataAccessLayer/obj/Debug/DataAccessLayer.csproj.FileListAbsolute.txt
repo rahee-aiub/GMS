@@ -1,0 +1,15 @@
+E:\WEB\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\WEB\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\WEB\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\WEB\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\WEB\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Live\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Live\ATOZWEBGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Live\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Live\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Live\ATOZWEBGMS\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
